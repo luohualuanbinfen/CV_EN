@@ -41,24 +41,24 @@ sidebar:
         link:
 
 career-profile:
-    title: 个人简介
+    title: Personal Profile
     summary: |
-      东南大学交通学院桥梁系研三学生，隶属本系长大桥梁建管养与新型组合结构桥梁研发中心，主要研究方向：新型组合结构桥梁、
-      桥梁施工与工程控制。
+      I’m a third-year M.S. student at the Bridge Department of the School of Transportation at Southeast University, belongs to the R&D Center of Long Bridge Construction & Management & Maintenance, and New Composite Structure. My research interests are new composite structure bridges, inverse engineering problems, bridge construction, and engineering control.
+      Also, aim at interdisciplinary research, have experience in deep-learning, Javascript, HTML5 & CSS. (Click the underlined text to view the relevant certificates)
 
 education:
-    - degree: <b>B.E. In Civil </b>
-      university: 东南大学, 桥梁与隧道工程专业
+    - degree: <b>M.S. Student In Civil </b>
+      university: Southeast University, School of Transportation, Major in Bridge and Tunnel Engineering, R&D Center of Long Bridge Construction & Management & Maintenance, and New Composite Structure
       time: 2018.09 - 2021.06
       details: |
-        专业课程： Structural design principles of higher bridges, bridge structure analysis, structural wind resistance analysis, bridge dynamic analysis and seismic design, elastoplastic mechanics, steel-concrete composite structure bridges;
+        Professional courses: Structural design principles of higher bridges, bridge structure analysis, structural wind resistance analysis, bridge dynamic analysis and seismic design, elastoplastic mechanics, steel-concrete composite structure bridges;
 
         
     - degree: <b>B.E. In Civil </b>
-      university: Southeast University, Road and Bridge Engineering
+      university: Southeast University, School of Transportation, Major in Road, Bridge and River Crossing Engineering, Mao Yisheng Class
       time: 2014.09 - 2018.06
       details: |
-        专业课程： Bridge engineering, structural design principles, bridge and culvert hydrology, steel structures and steel bridges, bridge steel-concrete composite structures, bridge construction and management, port and shipping engineering, bridge aesthetics, bridge computer-aided design
+        Professional courses: Bridge engineering, structural design principles, bridge and culvert hydrology, steel structures and steel bridges, bridge steel-concrete composite structures, bridge construction and management, port and shipping engineering, bridge aesthetics, bridge computer-aided design
         <div style="text-align: center;">
           <table width="100%" border="1" cellpadding="2" cellspacing="1">
           <tr>
@@ -70,7 +70,7 @@ education:
           <tr>
           <td> 2017.9-2018.7 </td>
           <td> Senior </td>
-          <td colspan="2"> School of Insurance (Southeast University) </td>
+          <td colspan="2"> postgraduate recommendation(Southeast University) </td>
           </tr>
           <tr>
           <td> 2016.9-2017.7 </td>
@@ -94,60 +94,60 @@ education:
         </div>
 
 honors:
-    title: 荣誉获奖
-    item1: 科学研究及工程应用
-    item2: 学业荣誉
+    title: Honors
+    item1: Scientific research and engineering applications
+    item2: Academic honors
     honor1:
-      - title: 2019.11, 第三届全国大学生“茅以升公益桥—小桥工程”设计大赛, <b>国家级一等奖</b>
+      - title: 2019.11, <b>First prize</b> of 'The 3rd National College Students' Mao Yisheng Public Welfare Bridge-Small Bridge Project Design Competition'
         # number: 国家级一等奖
         # time: 2019.11
         link: "https://tc.seu.edu.cn/2019/1111/c840a294623/page.htm"
-      - title: 2019.05, 全国大学生英语竞赛 A 类, <b>国家级三等奖</b>
+      - title: 2019.05, <b>Third prize</b> of 'The National English Contest for College Students'
         # number: 国家级三等奖
         # time: 2019.05
         link: "#"
-      - title: 2018.01, 第一届全国大学生“茅以升公益桥—小桥工程”设计大赛, <b>国家级三等奖</b>
+      - title: 2018.01, <b>Third prize</b> of 'The 1st National College Students' Mao Yisheng Public Welfare Bridge-Small Bridge Project Design Competition'
         # number: 国家级三等奖
         # time: 2018.01
         link: "https://tc.seu.edu.cn/2017/1213/c897a205277/page.htm"
-      - title: 2017.12, 第三届全国交通运输院长论坛“新国线大学生优秀论文”, <b>国家级二等奖</b>
+      - title: 2017.12, <b>Second prize</b> of 'The 3rd National Forum of Transportation Deans'
         # number: 国家级二等奖
         # time: 2017.12
         link: "#"
-      - title: 2017.04, 美国大学生数学建模竞赛, <b>国际级二等奖</b>
+      - title: 2017.04, <b>Second prize</b> of 'American College Students Mathematical Modeling Contest'
         # number: 国际级二等奖
         # time: 2017.04
         link: "#"
     honor2:
-      - title: 2019-2020学年<b>中国路桥奖学金</b>
+      - title: 2019-2020 Academic Year <b>China Road and Bridge Scholarship</b>
         # number: 国家级一等奖
         # time: 2019.11
         link: "#"
-      - title: 2019-2020学年<b>东南大学交通学院先进个人</b>
+      - title: 2019-2020 Academic Year <b>Advanced Individual of School of Transportation, Southeast University</b>
         # number: 国家级三等奖
         # time: 2019.05
         link: "#"
-      - title: 2019-2020学年<b>东南大学一等学业奖学金</b>
+      - title: 2019-2020 Academic Year <b>First Class Scholarship of Southeast University</b>
         # number: 国家级三等奖
         # time: 2018.01
         link: "#"
-      - title: 2018-2019学年<b>东南大学一等学业奖学金</b>
+      - title: 2018-2019 Academic Year <b>First Class Scholarship of Southeast University</b>
         # number: 国家级二等奖
         # time: 2017.12
         link: "#"
-      - title: 2018届<b>东南大学本科优秀毕业生</b>
+      - title: 2018届 <b>Outstanding Undergraduate Graduates of Southeast University</b>
         # number: 国际级二等奖
         # time: 2017.04
         link: "#"
-      - title: 2016-2017学年<b>东南大学校长奖学金</b>
+      - title: 2016-2017 Academic Year <b>Southeastern University President Scholarship</b>
         # number: 国际级二等奖
         # time: 2017.04
         link: "#"
-      - title: 2016-2017学年<b>东南大学校三好学生</b>
+      - title: 2016-2017 Academic Year <b>Outstanding Undergraduate of Southeast University</b>
         # number: 国际级二等奖
         # time: 2017.04
         link: "#"
-      - title: 2016-2017学年<b>中交路桥建设奖学金</b>
+      - title: 2016-2017 Academic Year <b>CCCC Road and Bridge Construction Scholarship</b>
         # number: 国际级二等奖
         # time: 2017.04
         link: "#"
