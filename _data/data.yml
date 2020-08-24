@@ -270,9 +270,9 @@ activities:
        -2015-2016 academic year outstanding cadres of Southeast University Student Association
 
 skills1:
-    title: 专业技能
+    title: Professional skills
     toolset:
-      - name: <b>专业相关软体</b>
+      - name: <b>Professional related software</b>
         title: -MATLAB，ABAQUS，ANSYS，OpenSees，MIDAS，SIMPACK，REVIT，CAD，Sketch & Photoshop...
         level: 98%
 
