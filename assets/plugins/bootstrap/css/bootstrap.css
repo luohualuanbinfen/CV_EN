@@ -1429,7 +1429,7 @@ ol ol {
   text-align-last: justify;
   text-justify: distribute-all-lines;
 *//*  word-break: break-all;*/
-  hyphens: manual;
+  /*hyphens: manual;*/
   padding-left: 0;
   list-style: none;
 }
