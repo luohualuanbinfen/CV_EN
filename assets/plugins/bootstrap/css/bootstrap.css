@@ -1427,7 +1427,7 @@ ol ol {
 .list-unstyled {
   text-align: justify;
   text-align-last: justify;
-  text-justify: inter-ideograph;
+  text-justify:distribute-all-lines;
   padding-left: 0;
   list-style: none;
 }
