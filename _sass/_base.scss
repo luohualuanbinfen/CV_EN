@@ -39,6 +39,7 @@ p {
 
 .sidebar-wrapper {
     background: $theme-color;
+    word-break: break-all;
     position: absolute;
     right: 0;
     width: 280px;
