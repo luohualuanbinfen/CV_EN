@@ -1425,11 +1425,12 @@ ol ol {
   margin-bottom: 0;
 }
 .list-unstyled {
-/*  text-align: justify;
+  text-align: justify;
   text-align-last: justify;
-  text-justify: distribute-all-lines;*/
-  word-break: break-all;
-  word-wrap: break-word;
+  text-justify: distribute-all-lines;
+  word-spacing:-2px;
+/*  word-break: break-all;
+  word-wrap: break-word;*/
   /*hyphens: auto;*/
   padding-left: 0;
   list-style: none;
