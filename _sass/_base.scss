@@ -147,6 +147,7 @@ p {
         margin-bottom: 0;
         li {
             text-align: justify;
+            hyphens: auto;
             margin-bottom: 10px;
             &:last-child {
                 margin-bottom: 0;
