@@ -41,7 +41,7 @@ p {
     background: $theme-color;
     text-align:justify;
     /*word-break: break-all;*/
-    hyphens: manual;
+    hyphens: auto;
     position: absolute;
     right: 0;
     width: 280px;
