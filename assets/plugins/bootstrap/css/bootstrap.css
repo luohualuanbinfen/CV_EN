@@ -1428,6 +1428,7 @@ ol ol {
   text-align: justify;
   text-align-last: justify;
   text-justify: distribute-all-lines;
+  word-break: break-all;
   hyphens: auto;
   padding-left: 0;
   list-style: none;
