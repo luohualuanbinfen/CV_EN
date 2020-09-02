@@ -40,7 +40,8 @@ p {
 .sidebar-wrapper {
     background: $theme-color;
     text-align:justify;
-    word-break: break-all;
+    /*word-break: break-all;*/
+    hyphens: auto;
     position: absolute;
     right: 0;
     width: 280px;
