@@ -1425,6 +1425,9 @@ ol ol {
   margin-bottom: 0;
 }
 .list-unstyled {
+  text-align: justify;
+  text-align-last: justify;
+  text-justify: inter-ideograph;
   padding-left: 0;
   list-style: none;
 }
