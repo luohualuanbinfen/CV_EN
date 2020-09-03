@@ -299,8 +299,7 @@ experiences:
       picture: xlzqkl.png
       details: |
         This subject is based on <b>a prestressed concrete box-girder bridge</b> with <b>early cracks in the</b> Hangzhou-Ningbo Expressway Highway of the Hangzhou Bay Bridge.
-        The solid finite element method is used to analyze the causes of early cracking of the box beam roof. The technical route is as follows:
-        <div align="center"><img src="assets/images/XLZQKL_JSLX.png" width="60%"></img></div>
+        The solid finite element method is used to analyze the causes of early cracking of the box beam roof. 
         </br> -The study confirmed that the <b>age difference of</b> the <b>layered concrete and the</b> uneven temperature field inside the box girder caused by the <b>hydration heat effect</b> of the <b>concrete</b> will cause the difference in shrinkage between the top and bottom webs of the box girder.
         These are the two main factors ( <b>first-level factors</b> ) that cause cracks in the box girder roof of this project;
         </br> -By analyzing the influence of controllable factors ( <b>secondary factors</b> ) such as <b>changes in concrete elastic modulus, layered pouring time interval, reinforcement arrangement and linear expansion coefficient</b> , on the degree of cracking,
