@@ -10,9 +10,10 @@ sidebar:
     name: Ziye Yang 
     tagline: |
       M.S. Student
-      </br> Laboratory of New Co­mposite Structure and Long Bridge Construction&Mainti­enance.
-      </br> School of Transportation
-      </br> Southeast University of China    
+      </br> Bridge Engineering
+      # </br> Laboratory of New Co­mposite Structure and Long Bridge Construction&Mainti­enance.
+      # </br> School of Transportation
+      # </br> Southeast University of China    
 
     avatar: photo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
