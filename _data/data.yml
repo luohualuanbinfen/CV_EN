@@ -102,6 +102,11 @@ education1:
         <div style="text-align: center;">
           <table width="100%" border="1" cellpadding="2" cellspacing="1">
           <tr>
+          <td> Time </td>
+          <td> Name </td>
+          <td> Prize </td>
+          </tr>
+          <tr>
           <td> 2019.11 </td>
           <td> The 3rd Natinal Mao Yisheng Public Welfare Bridge Design Competition</td>
           <td> 1st Prize </td>
