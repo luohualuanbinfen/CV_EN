@@ -256,10 +256,10 @@ experiences:
       picture: TGCW20200713_2043361.gif
       details: |
         This project mainly studies the dynamic performance of <b>a new composite structure--TGCW</b> (Trough girder with corrugated steel webs), and the expected results can be listed as follows:
-        </br> 1. Derive the theoretical formula of vertical bending natural vibration frequency of TGCW after considering the coupling effect of shear lag and shear deformation. 
-        </br> 2. Carry out laboratory dynamic characteristic test to verify the accuracy of the derived formula. 
-        </br> 3. Use multi-body dynamics software and finite element software to co-simulate the train-track-bridge system, and analyze the influencing factors of the system's coupling vibration.
-        </br> 4. Analyze the influence of vehicle speed, uneven road surface, and bridge structure parameters on the impact coefficient of the bridge, optimize the design of the structure, and put forward reasonable structural design suggestions.
+        </br> 1. <b>Derive the theoretical formula</b> of vertical bending natural vibration frequency of TGCW after considering the coupling effect of shear lag and shear deformation. 
+        </br> 2. Carry out <b>laboratory dynamic characteristic test</b> to verify the accuracy of the derived formula. 
+        </br> 3. Use multi-body dynamics software and finite element software to co-simulate the <b>train-track-bridge system</b>, and analyze the influencing factors of the system's coupling vibration.
+        </br> 4. Analyze the influence of vehicle speed, uneven road surface, and bridge structure parameters on the <b>impact coefficient</b> of the bridge, optimize the design of the structure, and put forward reasonable structural design suggestions.
    
     - role: <b>Finite element analysis of pile foundation underpinning</b>
       # link: "#"
@@ -267,9 +267,9 @@ experiences:
       company: Horizontal subject
       picture: zjth.png
       details: |
-        The project aimed at putting forward a suitable pile foundation underpinning plan, considering the surrounding environment, construction conditions and working space on site, for the problem--a tunnel (between Fujian Road Station and Chenghe Village Station on Nanjing Metro Line 7) crossing through pile foundations of bridges(Fujian Road Bridge and Fujian Road West Bridge).
+        The project aimed at putting forward a suitable <b>pile foundation underpinning</b> plan, considering the surrounding environment, construction conditions, and working space on site, for the problem--a tunnel (between Fujian Road Station and Chenghe Village Station on Nanjing Metro Line 7) crossing through pile foundations of bridges(Fujian Road Bridge and Fujian Road West Bridge).
         </br> - Responsible for establishing the finite element model of underpinning pile foundation and cap through <b>MIDAS/FEA</b>;
-        </br> - By analyzing the axial force and vertical displacement of pile foundation,  internal force of cover beam and pile cap, to ensure the safety of bridge structure during pile foundation underpinning and shield construction;
+        </br> - By analyzing the axial force and vertical displacement of pile foundation, the internal force of cover beam and pile cap, to ensure the safety of bridge structure during pile foundation underpinning and shield construction;
     - role: <b>Study on Early Cracks of Prestressed Concrete Box Girder</b>
       # link: "#"
       time: 
