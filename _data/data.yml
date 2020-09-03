@@ -102,9 +102,9 @@ education1:
         <div style="text-align: center;">
           <table width="100%" border="1" cellpadding="2" cellspacing="1">
           <tr>
-          <td width="20%"> Time </td>
+          <td width="17.5%"> Time </td>
           <td> Competition </td>
-          <td width="20%"> Prize </td>
+          <td width="15%"> Prize </td>
           </tr>
           <tr>
           <td> 2019.11 </td>
