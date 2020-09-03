@@ -250,8 +250,8 @@ honors:
 experiences:
     - role: <b>Research on Dynamic Performance of Corrugated Steel Web Composite Groove Beam</b>
       # link: "#"
-      time: 2019.07-present
-      company: Master's graduation design
+      time: 
+      company: 2019.07-present <\br>Master's graduation design
       picture: TGCW20200713_2043361.gif
       details: |
         This subject mainly studies the new composite structure: the dynamic performance of corrugated steel web composite trough beams. The project's expected results are as follows:
