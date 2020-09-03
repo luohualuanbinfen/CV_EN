@@ -165,6 +165,9 @@ p {
 
 .main-wrapper {
     background: #fff;
+    text-align:justify;
+    /*word-break: break-all;*/
+    hyphens: auto;    
     padding: 60px;
     padding-right: 340px;
     .section-title {
