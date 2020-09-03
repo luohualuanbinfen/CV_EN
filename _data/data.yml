@@ -268,7 +268,7 @@ experiences:
       picture: zjth.png
       details: |
         The project aimed at putting forward a suitable <b>pile foundation underpinning</b> plan, considering the surrounding environment, construction conditions, and working space on site, for the problem--a tunnel (between Fujian Road Station and Chenghe Village Station on Nanjing Metro Line 7) crossing through pile foundations of bridges(Fujian Road Bridge and Fujian Road West Bridge).
-        </br> - Responsible for establishing the finite element model of underpinning pile foundation and cap through <b>MIDAS/FEA</b>;
+        </br> - I was responsible for establishing the finite element model of underpinning pile foundation and cap through <b>MIDAS/FEA</b>;
         </br> - By analyzing the axial force and vertical displacement of pile foundation, the internal force of cover beam and pile cap, to ensure the safety of bridge structure during pile foundation underpinning and shield construction;
     
     - role: <b>Study on Early Cracks of Prestressed Concrete Box Girder</b>
@@ -287,27 +287,25 @@ experiences:
       company: Competition
       picture: dyjmys.png
       details: |
-        In this project, the original continuous arch-type ventral stone arch bridge was adjusted to beam-type ventral hollow concrete arch.
-        </br> Responsible for <b>on-site exploration, CAD drawing, and inspection of the bridge structure through MIDAS</b> ;
+        In this project, the original continuous arch-type ventral stone arch bridge was adjusted to a beam-type ventral hollow concrete arch.
+        </br> -I was responsible for <b>on-site exploration, CAD drawing, and inspection of the bridge structure through MIDAS</b> ;
         </br> -The project participated in the “Mao Yisheng Public Welfare Bridge Design Competition” and won the National 3rd prize.
    
     - role: <b>Computer-aided maintenance program analysis of Nanjing Yangtze River Bridge</b>
       link: "assets/images/NJCJDQ_ZB.jpg"
-      time: 
-      company: 2017.01 - 2017.07 </br>SRTP scientific research project
+      time: 2017.01 - 2017.07 
+      company: SRTP scientific research project
       picture: njcjdq.png
       details: |
-        This project takes <b>the maintenance and reconstruction</b> of the <b>concrete beams/bridge decks of the upper highway of the main bridge of the Nanjing Yangtze River Bridge</b> as the research background.
-        Under the structural stress condition of the bridge, based on the given upper road highway concrete deck deck system reform plan (replace the original bridge deck system with <b>orthotropic steel structure deck system</b> ),
-        Modeling and analyzing the impact of reconstruction methods on bridge performance.    
-        </br> -I am the project leader, responsible for establishing the finite element model of <b>each stage before and after the</b> bridge <b>repair and reconstruction</b> through ANSYS, and analyzing the dead load and
-        The stress of the members and the bridge deck system under the load of the train and the rationality of the construction process are analyzed.
-        </br> -Based on the project achievements, writing academic papers, included in <b>"2017 National Transportation Dean Forum Excellent Papers for College Students"</b> .
+        This project took the <b>maintenance and reconstruction</b> of the <b>concrete bridge decks of the upper highway of the main bridge of the Nanjing Yangtze River Bridge</b> as the research background.
+        The impact of reconstruction methods on bridge performance was analyzed based on the given upper road highway concrete deck deck system reform plan (replacing the original bridge deck system with <b>orthotropic steel structure deck system</b> ),
+        </br> -I was the project leader, responsible for establishing the finite element model of the bridge during the<b>each stage</b> of repair and reconstruction, and analyzing the stress state of the truss members and the bridge deck system under the dead load and train  through ANSYS. The rationality of the construction process was carried out based on the analysis .
+        </br> -Academic paper, written with the help of the project, was included in <b>"2017 National Transportation Dean Forum Excellent Papers of College Students"</b> .
 
     - role: <b>Experimental study on GFRP-concrete-steel composite beam bridge</b>
       link: "assets/images/GFRP_ZB.jpg"
-      time: 
-      company: 2016.01 - 2016.12 </br>SRTP scientific research project
+      time: 2016.01 - 2016.12
+      company: SRTP scientific research project
       picture: GFRP1.png
       details: |
         This project mainly studies the overall stress behavior <b>of GFRP-concrete composite bridge decks</b> with <b>different interface treatment methods in</b> order to obtain the most suitable for the actual bridge engineering
