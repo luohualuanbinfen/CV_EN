@@ -251,7 +251,8 @@ experiences:
     - role: <b>Research on Dynamic Performance of Corrugated Steel Web Composite Groove Beam</b>
       # link: "#"
       time: 
-      company: 2019.07-present <\br>Master's graduation design
+      company: |
+        2019.07-present <\br>Master's graduation design
       picture: TGCW20200713_2043361.gif
       details: |
         This subject mainly studies the new composite structure: the dynamic performance of corrugated steel web composite trough beams. The project's expected results are as follows:
@@ -264,7 +265,8 @@ experiences:
     - role: <b>Bridge Design Project-"Peach Blossom Fan Bridge"</b>
       link: "assets/images/THSQ_DETAILS.jpg"
       time: 
-      company: 2019.07 - 2019.12 <\br>Competition
+      company: |
+        2019.07 - 2019.12 <\br>Competition
       picture: XRT-9-14-YZY.gif
       details: |
         A total of 1 small bridge is designed for this project. In order to meet the requirements of the villagers in the previous social practice survey on increasing the height of the bridge deck and increasing the span,
