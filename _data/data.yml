@@ -299,7 +299,7 @@ experiences:
       details: |
         This project took the <b>maintenance and reconstruction</b> of the <b>concrete bridge decks of the upper highway of the main bridge of the Nanjing Yangtze River Bridge</b> as the research background.
         The impact of reconstruction methods on bridge performance was analyzed based on the given upper road highway concrete deck system reform plan (replacing the original bridge deck system with <b>an orthotropic steel structure deck system</b> ).
-        </br> -I was the project leader, responsible for establishing the finite element model of the bridge during <b>each stage of repair and reconstruction</b>, and analyzing the stress state of the truss members and the bridge deck system under the dead load and train  through <b>ANSYS<\b>. The rationality of the construction process was carried out based on the analysis.
+        </br> -I was the project leader, responsible for establishing the finite element model of the bridge during <b>each stage of repair and reconstruction</b>, and analyzing the stress state of the truss members and the bridge deck system under the dead load and train  through <b>ANSYS</b>. The rationality of the construction process was carried out based on the analysis.
         </br> -Academic paper, written with the help of the project, was included in <b>"2017 National Transportation Dean Forum Excellent Papers of College Students"</b> .
 
     - role: <b>Experimental study on GFRP-concrete-steel composite beam bridge</b>
@@ -320,10 +320,10 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers1:
-      - title: 1. <u>Ziye Yang</u>, Ming Yang, Xueliang Rong, Linjie Tian, "Theoretical and Numerical Study on Dynamic Characteristics of Composite Trough Girder with Corrugated Steel Webs", ASCE's Journal of Bridge Engineering, In Review.
+      - title: 1. <b>Ziye Yang</b>, Ming Yang, Xueliang Rong, Linjie Tian, "Theoretical and Numerical Study on Dynamic Characteristics of Composite Trough Girder with Corrugated Steel Webs", ASCE's Journal of Bridge Engineering, In Review.
         link: "#"
     papers2:
-      - title: 1. Yang Ming, <u>Yang</u> Ziye, He Xiaohui, Zhang Hailong, Tian Linjie, an Excel-based parametric modeling and analysis method for corrugated steel web composite trough beam Abaqus, under review
+      - title: 1. Ming Yang, <b>Ziye Yang</b>, Xiaohui He, Hailong Zhang, Linjie Tian, An Excel-based parametric modeling and analysis method for corrugated steel web composite trough beam Abaqus, under review
         link: "#"
 
 activities:
