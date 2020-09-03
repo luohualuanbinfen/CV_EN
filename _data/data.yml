@@ -257,10 +257,9 @@ experiences:
       picture: TGCW20200713_2043361.gif
       details: |
         This project mainly studies the dynamic performance of <b>a new composite structure--TGCW</b> (Trough girder with corrugated steel webs), and the expected results can be listed as follows:
-        </br> 1. Through theoretical calculation, derive the calculation formula of the vertical bending natural vibration frequency after considering the shear lag and shear deformation of the corrugated steel web composite groove beam. 
-        </br> 2. Carry out laboratory dynamic characteristic test on the new structure, measure the vibration frequency of the model, and combine the finite element model to verify the correctness and accuracy of the derived formula. 
-        </br> 3. Use multi-body dynamics software and finite element software to jointly simulate the multi-body system model of the train track bridge, and analyze the influencing factors of the vehicle-bridge coupling vibration to
-        And the solution of the impact coefficient.
+        </br> 1. Derive the theoretical formula of vertical bending natural vibration frequency of TGCW after considering the coupling effect of shear lag and shear deformation. 
+        </br> 2. Carry out laboratory dynamic characteristic test to verify the accuracy of the derived formula. 
+        </br> 3. Use multi-body dynamics software and finite element software to co-simulate the train-track-bridge system, and analyze the influencing factors of the system's coupling vibration.
         </br> 4. Analyze the influence of vehicle speed, uneven road surface, and bridge structure parameters on the impact coefficient of the bridge, optimize the design of the structure, and put forward reasonable structural design suggestions.
    
     - role: <b>Bridge Design Project-"Peach Blossom Fan Bridge"</b>
