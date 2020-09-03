@@ -263,16 +263,13 @@ experiences:
    
     - role: <b>Finite element analysis of pile foundation underpinning</b>
       # link: "#"
-      time: 
-      company: 2018.10 - 2018.11 </br>Horizontal subject
+      time: 2018.10 - 2018.11 
+      company: Horizontal subject
       picture: zjth.png
       details: |
-        This topic is aimed at the case of a tunnel between Fujian Road Station and Chenghe Village Station on Nanjing Metro Line 7 crossing Fujian Road Bridge and Fujian Road West Bridge.
-        Research on the surrounding environment, construction conditions and working space on site, put forward the pile foundation underpinning and shield machine cutting plan suitable for this project, to ensure the <b>pile foundation underpinning and shield construction</b>
-        During the process, the safety of the bridge structure and the normal traffic function are exerted.
-        </br> <b>-I am</b> responsible for using <b>MIDAS/FEA</b> to establish a finite element model of the underpinning pile foundation cap;
-        </br> -By analyzing the axial force of pile foundation, vertical displacement, internal force of cover beam and underpinning force, to ensure the safety of bridge structure during pile foundation underpinning and shield construction;
-
+        The project aimed at putting forward a suitable pile foundation underpinning plan, considering the surrounding environment, construction conditions and working space on site, for the problem--a tunnel (between Fujian Road Station and Chenghe Village Station on Nanjing Metro Line 7) crossing through pile foundations of bridges(Fujian Road Bridge and Fujian Road West Bridge).
+        </br> - Responsible for establishing the finite element model of underpinning pile foundation and cap through <b>MIDAS/FEA</b>;
+        </br> - By analyzing the axial force and vertical displacement of pile foundation,  internal force of cover beam and pile cap, to ensure the safety of bridge structure during pile foundation underpinning and shield construction;
     - role: <b>Study on Early Cracks of Prestressed Concrete Box Girder</b>
       # link: "#"
       time: 
