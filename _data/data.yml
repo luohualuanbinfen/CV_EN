@@ -95,7 +95,7 @@ education:
         </div>
 
 education1:
-    - degree: <b>Scientific</b>
+    - degree: <b>Scientific Awards</b>
       university: 
       time: 
       details: |
@@ -103,8 +103,8 @@ education1:
           <table width="100%" border="1" cellpadding="2" cellspacing="1">
           <tr>
           <td width="15%"> Time </td>
-          <td> Name </td>
-          <td width="20%"> Prize </td>
+          <td> Competition </td>
+          <td width="15%"> Prize </td>
           </tr>
           <tr>
           <td> 2019.11 </td>
@@ -139,41 +139,52 @@ education1:
           </table>
         </div>
 
-    - degree: <b>Academic</b>
+    - degree: <b>Academic Awards</b>
       university: 
       time: 
       details: |
         <div style="text-align: center;">
           <table width="100%" border="1" cellpadding="2" cellspacing="1">
           <tr>
-          <td> Time </td>
-          <td> Grade </td>
-          <td> GPA </td>
-          <td> Rankings </td>
+          <td width="15%"> Time </td>
+          <td > Prize </td>
           </tr>
           <tr>
-          <td> 2017.9-2018.7 </td>
-          <td> Senior </td>
-          <td colspan="2"> postgraduate recommendation(Southeast University) </td>
+          <td> 2020.06 </td>
+          <td> China Road & Bridge Scholarship </td>
           </tr>
           <tr>
-          <td> 2016.9-2017.7 </td>
-          <td> Junior </td>
-          <td> 4.624 </td>
-          <td> 1/103 </td>
+          <td> 2020.06 </td>
+          <td> Outstanding Individual of School of Transportation, Southeast University</td>
           </tr>
           <tr>
-          <td> 2015.9-2016.7 </td>
-          <td> Sophomore </td>
-          <td> 3.65 </td>
-          <td> 30/103 </td>
+          <td> 2019.10 </td>
+          <td> First Class Scholarship of Southeast University</td>
+          </tr>
+          <tr>
+          <td> 2018.10 </td>
+          <td> First Class Scholarship of Southeast University</td>
           </tr>       
           <tr>
-          <td> 2014.9-2015.7 </td>
-          <td> Freshman </td>
-          <td> 3.817 </td>
-          <td> 15/279 </td>
+          <td> 2018.06 </td>
+          <td> Outstanding Graduate of Southeast University</td>
           </tr>
+          <tr>
+          <td> 2017.12 </td>
+          <td> Southeastern University President Scholarship</td>
+          </tr>   
+          <tr>
+          <td> 2017.12 </td>
+          <td> Outstanding Student of Southeast University</td>
+          </tr>   
+          <tr>
+          <td> 2017.06 </td>
+          <td> China Communications Construction Scholarship </td>
+          </tr>   
+          <tr>
+          <td> 2016.12 </td>
+          <td> Outstanding Cadre of SEU Student Union</td>
+          </tr>                                 
           </table>
         </div>
 
