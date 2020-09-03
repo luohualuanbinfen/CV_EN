@@ -261,23 +261,6 @@ experiences:
         </br> 3. Use multi-body dynamics software and finite element software to co-simulate the train-track-bridge system, and analyze the influencing factors of the system's coupling vibration.
         </br> 4. Analyze the influence of vehicle speed, uneven road surface, and bridge structure parameters on the impact coefficient of the bridge, optimize the design of the structure, and put forward reasonable structural design suggestions.
    
-    - role: <b>Bridge Design Project-"Peach Blossom Fan Bridge"</b>
-      link: "assets/images/THSQ_DETAILS.jpg"
-      time: 
-      company: |
-        2019.07 - 2019.12 
-        </br>Competition
-      picture: XRT-9-14-YZY.gif
-      details: |
-        A total of 1 small bridge is designed for this project. In order to meet the requirements of the villagers in the previous social practice survey on increasing the height of the bridge deck and increasing the span,
-        This work intends to select a <b>light rigid frame bridge</b> with a <b>V-shaped reinforced structure to</b> reduce the height of the bridge and satisfy the requirement of increasing the elevation of the bridge deck.
-        Requirements for improving flood discharge capacity. The selection of the bridge position on the Xiaoqiao Bridge remains the same as the original Wangzhai Village Bridge. Use Autodesk Revit 
-        The software performs three-dimensional modeling and builds a complete steel and concrete data information system, which can be used in the later stage using the BIM construction management platform
-        Information integration, to obtain the number of material projects at each stage of construction, geometric size information, relative reference coordinates, to achieve full-cycle information management.
-        </br> -I am the project leader, responsible for <b>bridge design</b> , REVIT modeling + drawing, and responsible for checking the bridge structure through ABAQUS;
-        </br> -The project participated in the <b>third "Mao Yisheng Public Welfare Bridge-Small Bridge Project" design competition and won the first prize in the country</b> .
-        </br> (The project specific information can be viewed by clicking the title)
-
     - role: <b>Finite element analysis of pile foundation underpinning</b>
       # link: "#"
       time: 
