@@ -108,7 +108,7 @@ education1:
           </tr>
           <tr>
           <td> 2019.11 </td>
-          <td> The 3rd Natinal Mao Yisheng Public Welfare Bridge Design Competition</td>
+          <td> The 3rd Mao Yisheng Public Welfare Bridge Design Competition</td>
           <td> 1st Prize </td>
           </tr>
           <tr>
@@ -118,12 +118,12 @@ education1:
           </tr>
           <tr>
           <td> 2018.11 </td>
-          <td> The 2nd Natinal Mao Yisheng Public Welfare Bridge Design Competition</td>
+          <td> The 2nd Mao Yisheng Public Welfare Bridge Design Competition</td>
           <td> Honorable Mention </td>
           </tr>
           <tr>
           <td> 2017.12 </td>
-          <td> The 1st Natinal Mao Yisheng Public Welfare Bridge Design Competition</td>
+          <td> The 1st Mao Yisheng Public Welfare Bridge Design Competition</td>
           <td> 3rd Prize </td>
           </tr>       
           <tr>
@@ -270,6 +270,7 @@ experiences:
         The project aimed at putting forward a suitable <b>pile foundation underpinning</b> plan, considering the surrounding environment, construction conditions, and working space on site, for the problem--a tunnel (between Fujian Road Station and Chenghe Village Station on Nanjing Metro Line 7) crossing through pile foundations of bridges(Fujian Road Bridge and Fujian Road West Bridge).
         </br> - Responsible for establishing the finite element model of underpinning pile foundation and cap through <b>MIDAS/FEA</b>;
         </br> - By analyzing the axial force and vertical displacement of pile foundation, the internal force of cover beam and pile cap, to ensure the safety of bridge structure during pile foundation underpinning and shield construction;
+    
     - role: <b>Study on Early Cracks of Prestressed Concrete Box Girder</b>
       # link: "#"
       time: 2017.09 - 2018.06
@@ -279,17 +280,17 @@ experiences:
         The study mainly focused on the causes of early cracking of a prestressed concrete box-girder bridge’s top slab in the Hangzhou-Ningbo Expressway Highway of the Hangzhou Bay Bridge. 
         </br> -Through FEM, the study confirmed that the <b>age difference</b> of the layered pouring concrete and the uneven temperature field inside the box girder caused by the <b>concrete hydration heat effect</b> could raise difference in shrinkage between top slab and web of the box girder were the two main factors ( <b>first-level factors</b> ) causing cracks in the box girder roof in this project;
         </br> -By analyzing the influence of controllable factors (<b>secondary factors</b>) such as <b>changes in concrete elastic modulus, layered pouring time interval, reinforcement arrangement, and linear expansion coefficient</b>, on cracking degree, reasonable suggestions were made for material selection, design method, and construction measures to improve the early cracking state of the concrete box girder.   
+    
     - role: <b>Bridge renovation project-"Qingshan Town Tangdian Bridge"</b>
       link: "https://tc.seu.edu.cn/2017/1213/c897a205277/page.htm"
       time:  2017.07 - 2017.12
       company: Competition
       picture: dyjmys.png
       details: |
-        In this project, the original arch bridge structure of the bridge site was adjusted, and the plan of the continuous arch vented stone arch bridge with a width of 4.5m was adjusted to 3×27m and the width of the bridge was 7.5m.
-        Supporting concrete beam type abdominal hole hollow arch.    
-        </br> <b>-I am the</b> project technician, responsible for <b>on-site exploration of the</b> bridge <b>, CAD drawing, and inspection of the bridge structure through MIDAS</b> ;
-        </br> -The project participated in the "Mao Yisheng Public Welfare Bridge-Small Bridge Project" design competition and won the third prize in the country.
-
+        In this project, the original continuous arch-type ventral stone arch bridge was adjusted to beam-type ventral hollow concrete arch.
+        </br> Responsible for <b>on-site exploration, CAD drawing, and inspection of the bridge structure through MIDAS</b> ;
+        </br> -The project participated in the “Mao Yisheng Public Welfare Bridge Design Competition” and won the National 3rd prize.
+   
     - role: <b>Computer-aided maintenance program analysis of Nanjing Yangtze River Bridge</b>
       link: "assets/images/NJCJDQ_ZB.jpg"
       time: 
