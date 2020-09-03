@@ -50,7 +50,7 @@ career-profile:
       Also, aim at interdisciplinary research, have experience in deep-learning, Javascript, HTML5 & CSS. (Click the underlined text to view the relevant certificates)
 
 education:
-    - degree: <b>M.S. Student In Bridge Engineering</b>
+    - degree: <b>M.S. In Bridge Engineering</b>
       university: School of Transportation, Southeast University of China
       time: 2018.09 - 2021.06
       details: |
@@ -63,9 +63,9 @@ education:
         <div style="text-align: center;">
           <table width="100%" border="1" cellpadding="2" cellspacing="1">
           <tr>
-          <td> time </td>
-          <td> grade </td>
-          <td> Grade point </td>
+          <td> Time </td>
+          <td> Grade </td>
+          <td> GPA </td>
           <td> Rankings </td>
           </tr>
           <tr>
