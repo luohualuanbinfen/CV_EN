@@ -102,15 +102,15 @@ education1:
         <div style="text-align: center;">
           <table width="100%" border="1" cellpadding="2" cellspacing="1">
           <tr>
-          <td> Time </td>
+          <td width="15%"> Time </td>
           <td> Prize </td>
           </tr>
           <tr>
-          <td> 2019.11 </td>
+          <td width="15%"> 2019.11 </td>
           <td> <b>1st Prize</b> in the 3rd Natinal Mao Yisheng Public Welfare Bridge Design Competition</td>
           </tr>
           <tr>
-          <td> 2019.05 </td>
+          <td width="15%"> 2019.05 </td>
           <td> 3rd Prize in National English Contest for College Students</td>
           </tr>
           <tr>
