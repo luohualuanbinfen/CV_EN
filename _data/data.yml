@@ -282,8 +282,8 @@ experiences:
 
     - role: <b>Finite element analysis of pile foundation underpinning</b>
       # link: "#"
-      time: 2018.10 - 2018.11
-      company: Horizontal subject
+      time: 
+      company: 2018.10 - 2018.11 </br>Horizontal subject
       picture: zjth.png
       details: |
         This topic is aimed at the case of a tunnel between Fujian Road Station and Chenghe Village Station on Nanjing Metro Line 7 crossing Fujian Road Bridge and Fujian Road West Bridge.
@@ -294,8 +294,8 @@ experiences:
 
     - role: <b>Study on Early Cracks of Prestressed Concrete Box Girder</b>
       # link: "#"
-      time: 2017.09 - 2018.06
-      company: Graduation Project
+      time: 
+      company: 2017.09 - 2018.06 </br>Graduation Project
       picture: xlzqkl.png
       details: |
         This subject is based on <b>a prestressed concrete box-girder bridge</b> with <b>early cracks in the</b> Hangzhou-Ningbo Expressway Highway of the Hangzhou Bay Bridge.
@@ -308,8 +308,8 @@ experiences:
 
     - role: <b>Bridge renovation project-"Qingshan Town Tangdian Bridge"</b>
       link: "https://tc.seu.edu.cn/2017/1213/c897a205277/page.htm"
-      time: 2017.07 - 2017.12
-      company: Competition
+      time: 
+      company: 2017.07 - 2017.12 </br>Competition
       picture: dyjmys.png
       details: |
         In this project, the original arch bridge structure of the bridge site was adjusted, and the plan of the continuous arch vented stone arch bridge with a width of 4.5m was adjusted to 3×27m and the width of the bridge was 7.5m.
@@ -319,8 +319,8 @@ experiences:
 
     - role: <b>Computer-aided maintenance program analysis of Nanjing Yangtze River Bridge</b>
       link: "assets/images/NJCJDQ_ZB.jpg"
-      time: 2017.01 - 2017.07
-      company: SRTP scientific research project
+      time: 
+      company: 2017.01 - 2017.07 </br>SRTP scientific research project
       picture: njcjdq.png
       details: |
         This project takes <b>the maintenance and reconstruction</b> of the <b>concrete beams/bridge decks of the upper highway of the main bridge of the Nanjing Yangtze River Bridge</b> as the research background.
@@ -332,8 +332,8 @@ experiences:
 
     - role: <b>Experimental study on GFRP-concrete-steel composite beam bridge</b>
       link: "assets/images/GFRP_ZB.jpg"
-      time: 2016.01 - 2016.12
-      company: SRTP scientific research project
+      time: 
+      company: 2016.01 - 2016.12 </br>SRTP scientific research project
       picture: GFRP1.png
       details: |
         This project mainly studies the overall stress behavior <b>of GFRP-concrete composite bridge decks</b> with <b>different interface treatment methods in</b> order to obtain the most suitable for the actual bridge engineering
